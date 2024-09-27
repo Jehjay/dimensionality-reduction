@@ -6,13 +6,14 @@ Principal Component Analysis (PCA) | Linear Discriminant Analysis (LDA) | t-Dist
 <li> Implement the following <i> feature scaling </i> techniques and compare the results with the original data set : </li>
 <ol>
 <li><i> Normalization </i> using the following libraries: </li>
-- `sklearn.prepocessing.normalize()`
 
-- `sklearn.prepocessing.MinMaxScaler()`
+- `sklearn.preprocessing.normalize()`
+
+- `sklearn.preprocessing.MinMaxScaler()`
 
 <li><i> Standardization </i> using the following libraries: </li>
 
-- `sklearn.prepocessing.StandardScaler()`
+- `sklearn.preprocessing.StandardScaler()`
 
 - `scipy.stats.zscore()`
 </ol>
@@ -23,6 +24,7 @@ Principal Component Analysis (PCA) | Linear Discriminant Analysis (LDA) | t-Dist
 - <i> Linear Discriminant Analysis (LDA). </i>
 - <i> t-Distributed Stochastic Neighbor Embedding (t-SNE). </i>
 </ul>
+
 <h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
