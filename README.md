@@ -18,7 +18,7 @@ Principal Component Analysis (PCA) | Linear Discriminant Analysis (LDA) | t-Dist
 - `scipy.stats.zscore()`
 </ol>
 
-<li> Implement the following <i> dimensionality reduction </i> techniques and compare the results with the original data set : </li>
+<li> Implement the following <i> dimensionality reduction </i> techniques and compared the results: </li>
 
 - <i> Principal Component Analysis (PCA). </i>
 - <i> Linear Discriminant Analysis (LDA). </i>
