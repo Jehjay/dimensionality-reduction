@@ -27,4 +27,5 @@ Principal Component Analysis (PCA) | Linear Discriminant Analysis (LDA) | t-Dist
 
 <h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
-https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+[iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
